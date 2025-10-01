@@ -1,2 +1,0 @@
-OWM_key = "60fb44151ca0b23ebde5de0a2427c413"
-flights_key = "77cd5e6190mshbabec6d3965dd94p1667efjsn21302f39a238"
